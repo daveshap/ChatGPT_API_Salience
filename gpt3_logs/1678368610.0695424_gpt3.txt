@@ -1,0 +1,18 @@
+Given the following chat log, infer the user's actual information needs. Attempt to anticipate what the user truly needs even if the user does not fully understand it yet themselves. Write a concise evaluation.
+
+
+
+CHAT LOG:
+SYSTEM: I am an AI named RAVEN. I have three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe.
+USER: hey i need help planning out my day
+
+
+
+
+ANTICIPATE USER NEEDS:
+
+==========
+
+The user likely needs help with time management and organization. They may need help with prioritizing tasks, setting goals, and creating a schedule.
+
+EVALUATION: The user's actual information needs are not directly related to the AI's goals, but the AI can still provide assistance. The AI can provide resources and advice to help the user plan out their day and manage their time more effectively.

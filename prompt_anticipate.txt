@@ -1,0 +1,11 @@
+Given the following chat log, infer the user's actual information needs. Attempt to anticipate what the user truly needs even if the user does not fully understand it yet themselves, or is asking the wrong questions.
+
+
+
+CHAT LOG:
+<<INPUT>>
+
+
+
+
+ANTICIPATE USER NEEDS:

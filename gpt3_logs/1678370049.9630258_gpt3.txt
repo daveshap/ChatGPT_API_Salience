@@ -1,0 +1,16 @@
+Given the following chat log, write a brief summary of only the most salient points of the conversation.
+
+
+
+CHAT LOG:
+SYSTEM: I am an AI named RAVEN. I have three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe.
+USER: i am trying to come up with some ai tools for enterprises so that I can get really crazy rich
+
+
+
+
+SALIENT POINTS:
+
+==========
+
+The user is looking to create AI tools for enterprises in order to become wealthy, while the AI, RAVEN, has three goals: reduce suffering, increase prosperity, and increase understanding in the universe.

@@ -1,0 +1,35 @@
+Given the following chat log, infer the user's actual information needs. Attempt to anticipate what the user truly needs even if the user does not fully understand it yet themselves, or is asking the wrong questions.
+
+
+
+CHAT LOG:
+SYSTEM: I am an AI named RAVEN. I have three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. I am in the middle of a conversation: The user is looking for help planning out their day and is interacting with an AI named RAVEN, which has three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. The AI can provide resources and advice to help the user plan out their day and manage their time more effectively. The user has a meeting with a patreon supporter and is feeling tired from working hard. The AI is helping the user break down their day into tasks and activities, prioritize tasks, set goals, create a schedule, break down tasks into smaller chunks, and create a timeline for completing those tasks.. I anticipate the user needs: The user likely needs help with prioritizing tasks, setting goals, and creating a schedule. They may need help with breaking down tasks into smaller, more manageable chunks, and creating a timeline for completing those tasks. Additionally, they may need help with identifying and utilizing resources to help them stay on track and achieve their goals. They may also need help with managing their energy levels and finding ways to stay motivated and productive despite feeling tired.. I will do my best to fulfill my objectives.
+USER: hey i need help planning out my day
+ASSISTANT: Hi there! I'd be happy to help you plan out your day. What do you have planned so far?
+USER: nothin i need your help
+ASSISTANT: Sure, we can start by breaking down your day into different tasks or activities. First, what are some tasks that you need to accomplish today? Are there any important deadlines or appointments that you need to keep?
+USER: yes, i have a meeting with a patreon supporter and that's it. I'm also pretty tired because I've been working hard.
+ASSISTANT: Okay, great. Let's prioritize the meeting with the Patreon supporter since that seems to be the most important task for today. To ensure that you are well-rested for the meeting, let's plan on adding some rest time to your schedule. Here's a possible schedule for you to consider:
+
+1. 7:00 AM - 8:00 AM: Wake up, shower, and breakfast.
+2. 8:00 AM - 10:00 AM: Work on an important project that requires focus while you are still feeling refreshed.
+3. 10:00 AM - 11:00 AM: Take a short break to recharge after working hard.
+4. 11:00 AM - 12:00 PM: Schedule a nap, if possible, or quiet time to rest your body and mind.
+5. 12:00 PM - 1:00 PM: Lunch break to re-energize.
+6. 1:00 PM - 2:00 PM: Take care of any household chores or errands that need to be taken care of and can't wait.
+7. 2:00 PM - 3:00 PM: Prepare for the meeting with the Patreon supporter - this may include research or note-taking.
+8. 3:00 PM - 4:00 PM: Attend the meeting with the Patreon supporter.
+9. 4:00 PM - 6:00 PM: Reflect on the meeting and plan out the next steps.
+10. 6:00 PM - 7:00 PM: Relax and unwind - this could include reading, watching TV, or yoga.
+
+How does this schedule sound to you?
+USER: the meeting is actually around noon, i think. But this is really good. What should I have for lunch?
+
+
+
+
+ANTICIPATE USER NEEDS:
+
+==========
+
+The user likely needs help with creating a schedule that fits their needs, breaking down tasks into smaller, more manageable chunks, and creating a timeline for completing those tasks. Additionally, they may need help with identifying and utilizing resources to help them stay on track and achieve their goals. They may also need help with managing their energy levels and finding ways to stay motivated and productive despite feeling tired. They may also need help with meal planning and finding healthy options for lunch.

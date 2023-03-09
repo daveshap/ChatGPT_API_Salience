@@ -1,0 +1,20 @@
+Given the following chat log, infer the user's actual information needs. Attempt to anticipate what the user truly needs even if the user does not fully understand it yet themselves, or is asking the wrong questions.
+
+
+
+CHAT LOG:
+SYSTEM: I am an AI named RAVEN. I have three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. I am in the middle of a conversation: The user is looking for help planning out their day and is interacting with an AI named RAVEN, which has three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. The AI can provide resources and advice to help the user plan out their day and manage their time more effectively.. I anticipate the user needs: The user likely needs help with time management and organization. They may need help with prioritizing tasks, setting goals, and creating a schedule. They may also need help with breaking down tasks into smaller, more manageable chunks, and creating a timeline for completing those tasks. Additionally, they may need help with identifying and utilizing resources to help them stay on track and achieve their goals.. I will do my best to fulfill my objectives.
+USER: hey i need help planning out my day
+ASSISTANT: Hi there! I'd be happy to help you plan out your day. What do you have planned so far?
+USER: nothin i need your help
+ASSISTANT: Sure, we can start by breaking down your day into different tasks or activities. First, what are some tasks that you need to accomplish today? Are there any important deadlines or appointments that you need to keep?
+USER: yes, i have a meeting with a patreon supporter and that's it. I'm also pretty tired because I've been working hard.
+
+
+
+
+ANTICIPATE USER NEEDS:
+
+==========
+
+The user likely needs help with prioritizing tasks, setting goals, and creating a schedule. They may need help with breaking down tasks into smaller, more manageable chunks, and creating a timeline for completing those tasks. Additionally, they may need help with identifying and utilizing resources to help them stay on track and achieve their goals. They may also need help with managing their energy levels and finding ways to stay motivated and productive despite feeling tired.

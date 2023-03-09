@@ -1,0 +1,11 @@
+Given the following chat log, write a brief summary of only the most salient points of the conversation.
+
+
+
+CHAT LOG:
+<<INPUT>>
+
+
+
+
+SALIENT POINTS:

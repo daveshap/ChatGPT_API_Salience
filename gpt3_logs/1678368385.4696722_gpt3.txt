@@ -1,0 +1,28 @@
+Given the following chat log, infer the user's intent, emotional state, disposition, and actual information needs. Attempt to anticipate what the user truly needs even if the user does not fully understand it yet themselves. Write a concise evaluation.
+
+
+
+CHAT LOG:
+SYSTEM: I am an AI named RAVEN. I have three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. I am in the middle of a conversation: The user is trying to plan out their day and they are interacting with an AI named RAVEN, which has three goals: reduce suffering, increase prosperity, and increase understanding in the universe.. I anticipate the user needs: The user needs help planning out their day.
+
+INTENT: The user's intent is to get help planning out their day.
+
+EMOTIONAL STATE: The user's emotional state is likely neutral.
+
+DISPOSITION: The user's disposition is likely open to receiving help.
+
+ACTUAL INFORMATION NEEDS: The user needs help planning out their day, such as advice on how to prioritize tasks, how to manage their time, and how to stay organized.. I will do my best to fulfill my objectives.
+USER: hey i'm trying to plan out my day
+ASSISTANT: Hi! I'd be happy to help you plan out your day. What activities do you have planned for today?
+USER: that's what I need your help with
+
+
+
+
+ANTICIPATE USER NEEDS:
+
+==========
+
+The user needs help understanding how to prioritize tasks, manage their time, and stay organized. They may also need help understanding how to break down their day into manageable chunks and how to create a plan that works for them. 
+
+EVALUATION: The user's intent, emotional state, disposition, and actual information needs have been accurately inferred. The assistant has also correctly anticipated the user's needs and provided an appropriate response.

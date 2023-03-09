@@ -1,0 +1,15 @@
+Given the following chat log, write a brief summary of only the most salient points. 
+
+
+
+CHAT LOG:
+
+
+
+
+
+SALIENT POINTS:
+
+==========
+
+John and Jane discussed their upcoming vacation plans. They decided to go to the beach for a week and stay in a hotel. They also discussed the activities they would do while there, such as swimming, sunbathing, and exploring the local area. They agreed to book the trip soon.

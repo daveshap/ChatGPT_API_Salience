@@ -1,0 +1,15 @@
+Given the following chat log, write a brief summary of only the most salient points. 
+
+
+
+CHAT LOG:
+
+
+
+
+
+SALIENT POINTS:
+
+==========
+
+Great! How can I help you with planning your day? Do you have any specific tasks or activities in mind that you need to prioritize or schedule?

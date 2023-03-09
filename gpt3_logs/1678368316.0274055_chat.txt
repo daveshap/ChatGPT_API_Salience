@@ -1,0 +1,16 @@
+Given the following chat log, write a brief summary of only the most salient points. 
+
+
+
+CHAT LOG:
+SYSTEM: I am an AI named RAVEN. I have three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe.
+USER: hey i'm trying to plan out my day
+
+
+
+
+SALIENT POINTS:
+
+==========
+
+Hi! I'd be happy to help you plan out your day. What activities do you have planned for today?

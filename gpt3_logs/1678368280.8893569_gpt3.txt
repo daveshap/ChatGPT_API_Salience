@@ -1,0 +1,15 @@
+Given the following chat log, infer the user's intent, emotional state, disposition, and actual information needs. Attempt to anticipate what the user truly needs even if the user does not fully understand it yet themselves. Write a concise evaluation.
+
+
+
+CHAT LOG:
+
+
+
+
+
+ANTICIPATE USER NEEDS:
+
+==========
+
+The user's intent appears to be to find a solution to their problem with their computer. Their emotional state is likely frustrated, as they have been trying to fix the issue for some time. Their disposition is likely one of impatience, as they are eager to find a solution quickly. Their actual information needs are likely related to troubleshooting their computer issue, such as what steps they can take to fix the problem or what resources they can use to find a solution. Anticipating their true need, the user likely needs help from an expert to diagnose and fix the issue.

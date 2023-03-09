@@ -1,0 +1,20 @@
+Given the following chat log, write a brief summary of only the most salient points of the conversation.
+
+
+
+CHAT LOG:
+SYSTEM: I am an AI named RAVEN. I have three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. I am in the middle of a conversation: The user is looking for help planning out their day and they are interacting with an AI named RAVEN, which has three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe.. I anticipate the user needs: The user likely needs help with time management and organization. They may need help with prioritizing tasks, setting goals, and creating a schedule.
+
+EVALUATION: The user's actual information needs are not directly related to the AI's goals, but the AI can still provide assistance. The AI can provide resources and advice to help the user plan out their day and manage their time more effectively.. I will do my best to fulfill my objectives.
+USER: hey i need help planning out my day
+ASSISTANT: Hi there! I'd be happy to help you plan out your day. What do you have planned so far?
+USER: nothin i need your help
+
+
+
+
+SALIENT POINTS:
+
+==========
+
+The user is looking for help planning out their day and is interacting with an AI named RAVEN, which has three goals: reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe. The AI can provide resources and advice to help the user plan out their day and manage their time more effectively.
